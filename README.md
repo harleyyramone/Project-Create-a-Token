@@ -1,4 +1,4 @@
-# Hello World
+# Project-Create-a-Token
 
 This Solidity program demonstrates essential programming concepts including declaring variables, using mappings as reference types, creating functions, and performing conditional expressions. This program, designed to illustrate the abilities I've gained from metacrafters' fundamental Ethereum course, reflects my first attempt into blockchain development, with an emphasis on developing a small Token system to use these new learnings in a practical situation.
 ## Description
