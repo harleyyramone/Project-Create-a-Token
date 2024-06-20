@@ -31,7 +31,7 @@ contract MyToken {
 ```
 
 
-To compile the code, select the "Solidity Compiler" tab from the left sidebar. Set the "Compiler" option to "0.8.4" (or any suitable version), then click the "Compile HelloWorld.sol" button.
+To compile the code, select the "Solidity Compiler" tab from the left sidebar. Set the "Compiler" option to "0.8.18" (or any suitable version), then click the "Compile HelloWorld.sol" button.
 
 Once the code has been built, you can deploy the contract by selecting the "Deploy & Run Transactions" tab in the left-hand sidebar. Choose the "HelloWorld" contract from the dropdown menu, and then click the "Deploy" button.
 
